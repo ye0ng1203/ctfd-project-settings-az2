@@ -23,7 +23,7 @@ spec:
             - name: FILE_SYSTEM_ID
               value: ""
             - name: AWS_REGION
-              value: ""
+              value: "ap-northeast-2"
             - name: PROVISIONER_NAME
               value: "ctfd-logs-az2"
           volumeMounts:
